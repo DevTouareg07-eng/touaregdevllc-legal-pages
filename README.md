@@ -18,7 +18,7 @@ GitHub Pages deploys the `site/` directory on each push to `main` through `.gith
 4. Link the app's two pages from its store listing and in-app settings, then verify both public URLs.
 5. Add the new app to `site/index.html` and commit the changes to `main`.
 
-The templates are drafting aids, not ready-to-publish policies or legal advice. Make each app's pages match its actual behavior and the laws that apply to it.
+The templates are drafting aids, not ready-to-publish policies or legal advice. Make each app's pages match its actual behavior and the laws that apply to it. They use the shared contact address `contact@touaregdev.com`; update it if an app needs a different contact.
 
 ## Structure
 
