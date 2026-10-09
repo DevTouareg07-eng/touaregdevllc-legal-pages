@@ -7,6 +7,8 @@ Public, shared home for legal pages used by Touareg Dev apps. The GitHub reposit
 - Site home: <https://devtouareg07-eng.github.io/touaregdevllc-legal-pages/>
 - Sands of Anubis privacy policy: <https://devtouareg07-eng.github.io/touaregdevllc-legal-pages/apps/sands-of-anubis/privacy-policy.html>
 - Sands of Anubis terms of service: <https://devtouareg07-eng.github.io/touaregdevllc-legal-pages/apps/sands-of-anubis/terms-of-service.html>
+- Sands of Anubis iOS privacy policy: <https://devtouareg07-eng.github.io/touaregdevllc-legal-pages/apps/sands-of-anubis-ios/privacy-policy.html>
+- Sands of Anubis iOS terms of service: <https://devtouareg07-eng.github.io/touaregdevllc-legal-pages/apps/sands-of-anubis-ios/terms-of-service.html>
 
 GitHub Pages deploys the `site/` directory on each push to `main` through `.github/workflows/deploy-pages.yml`.
 
@@ -27,6 +29,10 @@ site/
   index.html
   apps/
     sands-of-anubis/
+      privacy-policy.html
+      terms-of-service.html
+    sands-of-anubis-ios/
+      index.html
       privacy-policy.html
       terms-of-service.html
   assets/
